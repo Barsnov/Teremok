@@ -1,0 +1,13 @@
+[
+    {
+        "name": "back_img",
+        "src": "../../public/images/taskTwo/Back.svg",
+        "alt": "back_img",
+        "className": "back_img",
+        "style_left": "0",
+        "style_top": "0",
+        "width": "100%",
+        "height": "100%",
+        "zIndex": "0"
+    }
+]
